@@ -22,7 +22,7 @@ Cryptocurrency Clustering with Unsupervised Machine Learning.
 
 * A 3D scatter plot is created with the 3 PCA and clusters with the hover name being the coin name and hover data being the algorithm.
 
-![2D]()
+![2D](images/tradable_crypto.png)
 
 * Finally, a 2D scatter plot is created with "TotalCoinsMined"  and "TotalCoinSupply" data and the hover column as the coin name.
  
