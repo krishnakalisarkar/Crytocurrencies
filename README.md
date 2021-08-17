@@ -18,7 +18,7 @@ Cryptocurrency Clustering with Unsupervised Machine Learning.
 
 * Since there is no known output for unsupervised machine learning, the elbow curve confirms that 4 clusters are needed for this dataset.
 
-![3D]()
+![3D](images/3D_scatter_plot.png)
 
 * A 3D scatter plot is created with the 3 PCA and clusters with the hover name being the coin name and hover data being the algorithm.
 
