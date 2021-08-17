@@ -14,7 +14,7 @@ Cryptocurrency Clustering with Unsupervised Machine Learning.
 * The Cryptocurrency dataset is cleaned by removing unnecessary columns, dropping of Null values reducing the dimensions of the DataFrame to three principal components and Standardizing the data using StandardScaler.
 * This was followed by clustering the cleaned and Standardized data using K means clustering.
 
-![Elbowcurve]()
+![Elbowcurve](images/bokeh_plot (2).png)
 
 * Since there is no known output for unsupervised machine learning, the elbow curve confirms that 4 clusters are needed for this dataset.
 
